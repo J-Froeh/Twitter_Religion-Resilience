@@ -2,7 +2,7 @@
 This repository features code from the research project "Digital Religious Communication and the Facilitation of Resilient Faith: A Study of the Twitter Activity of Ecumenical and Social Justice-Oriented Groups during the COVID-19 Pandemic" to replicate the results or adapt to your own study. The study was kindly supported by the [VolkswagenStiftung](https://www.volkswagenstiftung.de/de) (Volkswagen Foundation) and part of the project "The role of transcultural semantics and symbols for resilience during the Corona pandemic – a hermeneutic approach to historical and intercultural expressions of severe crisis".
 
 ## Data availablity
-The data used for the study cannot be shared publicly according to [Twitter's Developer Policy](https://developer.twitter.com/en/developer-terms/policy) as well as according to the GDPR since it might contain sensitive data. Therefore, the datasets can only be requested directly from the study's authors and will be distributed in form of Twitter-ID's.
+The data used for the study cannot be shared publicly according to [Twitter's Developer Policy](https://developer.twitter.com/en/developer-terms/policy) as well as according to the GDPR since it might contain sensitive data. Therefore, the code provided here allows replicating the exact dataset used for the study regarding all official accounts. Additionally, both datasets (including the randomized one) can be requested directly from the study's authors and will be distributed in the form of Tweet-ID's.
 
 ## This project consists of...
 The project provides code according to the study mentioned above. This includes 
