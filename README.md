@@ -1,5 +1,5 @@
 # Twitter_Religion-Resilience
-This repository features code from the research project "Digital Religious Communication and the Facilitation of Resilient Faith: A Study of the Twitter Activity of Ecumenical and Social Justice-Oriented Groups during the COVID-19 Pandemic" to replicate the results or adapt to your own study.
+This repository features code from the research project "Digital Religious Communication and the Facilitation of Resilient Faith: A Study of the Twitter Activity of Ecumenical and Social Justice-Oriented Groups during the COVID-19 Pandemic" to replicate the results or adapt to your own study. The study was kindly supported by the VolkswagenStiftung (Volkswagen Foundation) and part of the project "The role of transcultural semantics and symbols for resilience during the Corona pandemic – a hermeneutic approach to historical and intercultural expressions of severe crisis".
 
 ## This project consists of...
 The project provides code according to the study mentioned above. This includes 
